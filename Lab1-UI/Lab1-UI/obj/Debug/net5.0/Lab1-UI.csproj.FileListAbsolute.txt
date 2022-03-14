@@ -1,0 +1,11 @@
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\bin\Debug\net5.0\Lab1-UI.deps.json
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\bin\Debug\net5.0\Lab1-UI.dll
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\bin\Debug\net5.0\ref\Lab1-UI.dll
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\bin\Debug\net5.0\Lab1-UI.pdb
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\obj\Debug\net5.0\Lab1-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\obj\Debug\net5.0\Lab1-UI.AssemblyInfoInputs.cache
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\obj\Debug\net5.0\Lab1-UI.AssemblyInfo.cs
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\obj\Debug\net5.0\Lab1-UI.csproj.CoreCompileInputs.cache
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\obj\Debug\net5.0\Lab1-UI.dll
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\obj\Debug\net5.0\ref\Lab1-UI.dll
+C:\Users\ydl74\source\repos\Lab1-UI\Lab1-UI\obj\Debug\net5.0\Lab1-UI.pdb
